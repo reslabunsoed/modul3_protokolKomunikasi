@@ -120,6 +120,12 @@ Ada perbedaan jika diterapkan pada Wokwi
 
 https://github.com/user-attachments/assets/9bdc8718-454d-48f3-b8a3-3c6fca5dcb8a
 
+<h2>Menampilkan Konten dengan LCD I2C</h2>
+
+Setelah di bagian sebelumnya yaitu [Komunikasi Serial](https://github.com/uckypradestha/arduino_protocol_comm/tree/8fb57e4f86535550b08583d6fdbc782cf4064646/1.%20Komunikasi%20Serial%20(UART)) telah dilakukan percobaan berupa menampilkan "Hello World" menggunakan Serial Monitor dengan Metode `Serial.print()`, pada bagian ini kita akan mencoba mencetak tulisan menggunakan LCD I2C. Lebih lanjut dapat klik tautan di bawah ini:
+
+
+
 <h2></h2>
 
 <br>
