@@ -124,7 +124,17 @@ https://github.com/user-attachments/assets/9bdc8718-454d-48f3-b8a3-3c6fca5dcb8a
 
 Setelah di bagian sebelumnya yaitu [Komunikasi Serial](https://github.com/uckypradestha/arduino_protocol_comm/tree/8fb57e4f86535550b08583d6fdbc782cf4064646/1.%20Komunikasi%20Serial%20(UART)) telah dilakukan percobaan berupa menampilkan "Hello World" menggunakan Serial Monitor dengan Metode `Serial.print()`, pada bagian ini kita akan mencoba mencetak tulisan menggunakan LCD I2C. Lebih lanjut dapat klik tautan di bawah ini:
 
-
+<table border="1" align="center" width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <h2>
+        <a href="https://github.com/uckypradestha/arduino_protocol_comm/tree/8fb57e4f86535550b08583d6fdbc782cf4064646/2.%20Protokol%20Inter-Integrated%20Circuit%20(I2C)/print_I2c">
+          MENAMPILKAN TULISAN DI LCD I2C
+        </a>
+      </h2>
+    </td>
+  </tr>
+</table>
 
 <h2></h2>
 
